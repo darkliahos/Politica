@@ -15,6 +15,6 @@
   "dependencies": {
     "@types/imagemapster": "^1.2.8",
     "electron": "18.3.7",
-    "npm": "^6.4.1"
+    "npm": "^9.4.1"
   }
 }
